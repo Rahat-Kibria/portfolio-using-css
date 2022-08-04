@@ -1,3 +1,3 @@
 ## Portfolio using CSS
 
-How to design header, main section, divs, pictures, fonts, menus, logos, footer. Also how to make it responsive for other devices.
+How to design header, main section, divs, pictures, fonts, menus, forms, logos, footer. Also how to make it responsive for other devices.
